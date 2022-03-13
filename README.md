@@ -5,7 +5,7 @@
   Thank's !  
   to https://www.instructables.com/member/diy_bloke/
   
-  Just in case this stuff disapears from instructables, I just added some pictures and a fritzing breadboard and schematic views.
+  Just in case this stuff disapears from instructables, I just added some pictures and fritzing breadboard and schematic views.
     
     
   
