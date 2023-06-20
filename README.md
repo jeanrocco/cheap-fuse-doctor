@@ -1,6 +1,6 @@
 # cheap-fuse-doctor  
 
-### Resetting the fuses on a Atmel Attiny85  
+### Resetting the fuses on a Atmel Attiny85 with a Serial High Voltage Programmer
   Just some pretty printings, to help my failing memory, to an excellent instructable: <a href="https://www.instructables.com/id/Simple-and-cheap-Fuse-Doctor-for-Attiny/">Attiny fuse doctor</a>  
   
   Thank's !  
