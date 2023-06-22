@@ -1,7 +1,7 @@
 # cheap-fuse-doctor  
 
 ### Resetting the fuses on a Atmel Attiny85 with a Serial High Voltage ( ... well 12 volts mind you ! ) Programmer
-  Just some pretty printings, to help my failing memory, to an excellent instructable: <a href="https://www.instructables.com/id/Simple-and-cheap-Fuse-Doctor-for-Attiny/">Attiny fuse doctor</a>. I just added code to print-out on the serial port, which Attiny(13, 24, 25, 44, 45, 84 and 85) the has doc. detected.  
+  Just some pretty printings, to help my failing memory, to an excellent instructable: <a href="https://www.instructables.com/id/Simple-and-cheap-Fuse-Doctor-for-Attiny/">Attiny fuse doctor</a>. I just added code to print-out on the serial port, which Attiny(13, 24, 25, 44, 45, 84 and 85) the doc. has detected.  
   
   Thank's !  
   to https://www.instructables.com/member/diy_bloke/
