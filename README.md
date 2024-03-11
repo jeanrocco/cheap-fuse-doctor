@@ -13,6 +13,6 @@
 
 ### New Stuff: from https://www.hackster.io/sbinder/attiny85-powered-high-voltage-avr-programmer-3324e1
   
-  This is the simplest fuse programmer so far, instead of an Arduino it uses an Attiny85 as a master fuse programmer. I had issues with it, but it now works fine after I added 10 uF and a 0.1 uF between +5 and ground, as suggested by the author. I also added a 1K resistor on the base of the transistor. You can see my version at: https://github.com/jeanrocco/cheap-fuse-doctor/blob/master/FuseDoctor_Master_Attiny85.fzz , with a copy of the .ino code included.
+  This is the simplest fuse programmer so far, instead of an Arduino it uses an Attiny85 as a master fuse programmer. I had issues with it, but it now works fine after I added 10 uF and a 0.1 uF between +5 and ground, as suggested by the author. I also added a 1K resistor on the base of the transistor. You can see my version at: https://github.com/jeanrocco/cheap-fuse-doctor/blob/master/FuseDoctor_Master_Attiny85.fzz , with a copy of the .ino code included and also <a href="https://github.com/jeanrocco/cheap-fuse-doctor/blob/master/AttinyMaster-Target.ino.txt">here</a> too.
   
   enjoy !
